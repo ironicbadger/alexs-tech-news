@@ -35,7 +35,7 @@
     <item>
         <title>Mozilla shutters Pocket, ZFS is getting mismatched drive support and more</title>
         <description>Self-hosting and open-source news roundup, Alex from KTZ Systems covers the biggest headlines affecting homelabbers, tinkerers, and tech enthusiasts alike. From the groundbreaking ZFS AnyRaid announcement by HexOS, to Mozilla shuttering Pocket and the rise of self-hosted read-it-later apps like Wallabag and Shiori, there’s plenty to digest. We also touch on Home Assistant’s major deprecations, MinIO’s controversial change, Ubuntu embracing Rust, a cool ThinkNAS build on Reddit, and fresh NAS hardware unveiled at Computex. Oh, and Plex is selling your data now? Buckle up. This is a jam-packed episode with context, opinion, and a healthy dose of open-source optimism.</description>
-        <link>https://ironicbadger.github.io/atn/episode-001</link>
+        <link>https://news.ktzsystems.com/atn/episode-001</link>
         <guid isPermaLink="false">episode-001</guid>
         <pubDate>Wed, 28 May 2025 12:00:00 GMT</pubDate>
         <enclosure url="https://media.ktzsystems.com/atn-001-20250527.mp3"
