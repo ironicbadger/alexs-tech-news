@@ -173,6 +173,38 @@ h3 {
     background: linear-gradient(to right, transparent, #cbd5e0, transparent);
 }
 
+.about-me {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 1.5rem;
+    background-color: #f7fafc;
+    border-radius: 8px;
+    border-left: 4px solid #667eea;
+    margin: 2rem 0;
+}
+
+.host-photo {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+.about-text h4 {
+    color: #2d3748;
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+}
+
+.about-text p {
+    color: #4a5568;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin: 0;
+}
+
 .episodes-list {
     margin-top: 2rem;
 }
@@ -299,5 +331,16 @@ h3 {
     
     .episode-pills {
         align-self: flex-end;
+    }
+
+    .about-me {
+        flex-direction: column;
+        text-align: center;
+        gap: 1rem;
+    }
+
+    .host-photo {
+        width: 60px;
+        height: 60px;
     }
 }
