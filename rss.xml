@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <atom:link href="https://news.ktzsystems.com/rss.xml" rel="self" type="application/rss+xml" />
+
+    <title>Alex's Tech News</title>
+    <link>https://news.ktzsystems.com</link>
+    <description>Tech news, tutorials, and insights for self-hosting enthusiasts and homelab builders. Alex covers everything from server hardware and software to networking, security, and emerging technologies in the self-hosting and homelab space.</description>
+    <language>en-us</language>
+    <copyright>Copyright 2025 Alex</copyright>
+    <managingEditor>alex@ktzsystems.com (Alex)</managingEditor>
+    <webMaster>alex@ktzsystems.com (Alex)</webMaster>
+    <lastBuildDate>Tues, 27 May 2025 12:00:00 GMT</lastBuildDate>
+    <pubDate>Tues, 27 May 2025 12:00:00 GMT</pubDate>
+    <generator>Self-Hosted Podcast RSS</generator>
+
+    <!-- iTunes/Apple Podcasts Tags -->
+    <itunes:author>Alex</itunes:author>
+    <itunes:summary>Tech news, tutorials, and insights for self-hosting enthusiasts and homelab builders. Alex covers everything from server hardware and software to networking, security, and emerging technologies in the self-hosting and homelab space.</itunes:summary>
+    <itunes:subtitle>Tech news and insights for self-hosting enthusiasts</itunes:subtitle>
+    <itunes:owner>
+        <itunes:name>Alex Kretzschmar</itunes:name>
+        <itunes:email>alex@ktzsystems.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media.ktzsystems.com/logo-small-1500x1500.png"/>
+    <!-- Technology category is perfect for tech news -->
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+    <!-- Episodes -->
+    <item>
+        <title>Mozilla shutters Pocket, ZFS is getting mismatched drive support and more</title>
+        <description>Self-hosting and open-source news roundup, Alex from KTZ Systems covers the biggest headlines affecting homelabbers, tinkerers, and tech enthusiasts alike. From the groundbreaking ZFS AnyRaid announcement by HexOS, to Mozilla shuttering Pocket and the rise of self-hosted read-it-later apps like Wallabag and Shiori, there’s plenty to digest. We also touch on Home Assistant’s major deprecations, MinIO’s controversial change, Ubuntu embracing Rust, a cool ThinkNAS build on Reddit, and fresh NAS hardware unveiled at Computex. Oh, and Plex is selling your data now? Buckle up. This is a jam-packed episode with context, opinion, and a healthy dose of open-source optimism.</description>
+        <link>https://yourusername.github.io/podcast-feed/episode-1</link>
+        <guid isPermaLink="false">episode-001</guid>
+        <pubDate>Wed, 28 May 2025 12:00:00 GMT</pubDate>
+        <enclosure url="https://media.ktzsystems.com/atn-001-20250527.mp3"
+                   length="23015683"
+                   type="audio/mpeg"/>
+        <itunes:author>Alex Kretzschmar</itunes:author>
+        <itunes:subtitle>001 - Tech News May 27th</itunes:subtitle>
+        <itunes:summary>Self-hosting and open-source news roundup, Alex from KTZ Systems covers the biggest headlines affecting homelabbers, tinkerers, and tech enthusiasts alike. From the groundbreaking ZFS AnyRaid announcement by HexOS, to Mozilla shuttering Pocket and the rise of self-hosted read-it-later apps like Wallabag and Shiori, there’s plenty to digest. We also touch on Home Assistant’s major deprecations, MinIO’s controversial change, Ubuntu embracing Rust, a cool ThinkNAS build on Reddit, and fresh NAS hardware unveiled at Computex. Oh, and Plex is selling your data now? Buckle up. This is a jam-packed episode with context, opinion, and a healthy dose of open-source optimism.</itunes:summary>
+        <itunes:duration>15:58</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>1</itunes:episode>
+    </item>
+
+</channel>
+</rss>
