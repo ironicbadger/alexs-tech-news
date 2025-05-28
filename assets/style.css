@@ -88,6 +88,23 @@ article h2 {
     text-align: center;
 }
 
+.video-player {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    border-radius: 8px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video-player iframe {
+    max-width: 100%;
+    width: 560px;
+    height: 315px;
+    border-radius: 4px;
+}
+
 audio {
     width: 100%;
     max-width: 600px;
